@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mj Sakthi Magendhiran.
+- 👀 I’m interested in anything i can learn.
+- 🌱 I’m currently learning c-program and python.
+- 💞️ I’m looking to collaborate on app development and cyber security.
